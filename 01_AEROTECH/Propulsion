@@ -1,0 +1,38 @@
+---
+markmap:
+  color:
+    - white 
+---
+# PROJECT KANT TURK
+## _____________________________________________________________________________________________________
+
+## SIMULATED DATA 
+### DIGITAL TWIN 3D
+#### PROPULSION
+##### ENGINE
+###### STRUCTURAL
+###### AERODYNAMICS
+###### CONTROL SYSTEM
+###### PROPELLANT
+## _____________________________________________________________________________________________________ 
+## REAL DATA
+### DEV REPLICA PROTYPE TESTING
+##### ENGINE
+- STRUCTURAL
+- AERODYNAMICS
+- CONTROL SYSTEM
+- PROPELLANT
+### UAT REPLICA PROTYPE SWARM TESTING
+##### ENGINE
+- STRUCTURAL
+- AERODYNAMICS
+- CONTROL SYSTEM
+- PROPELLANT
+### PROD PROTYPE SWARM TESTING
+##### ENGINE
+- STRUCTURAL
+- AERODYNAMICS
+- CONTROL SYSTEM
+- PROPELLANT
+## _____________________________________________________________________________________________________
+
